@@ -1,0 +1,10 @@
+{
+  "world_size": 4,
+  "mesh_shape": [2, 2],
+  "mesh_axes": ["dp", "tp"],
+  "device_memory_bytes": 8589934592,
+  "compute_flops_per_second": 1000000000000,
+  "link_bandwidth_bytes_per_second": 10000000000,
+  "link_latency_seconds": 0.000005,
+  "synthetic": true
+}
