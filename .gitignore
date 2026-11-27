@@ -8,3 +8,5 @@ build/
 dist/
 outputs/
 .ipynb_checkpoints/
+
+.vscode
